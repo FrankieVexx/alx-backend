@@ -1,4 +1,4 @@
-#!/usr/env python3
+#!/usr/bin/env python3
 
 """A get_hyper function that takes the same arguments
 as get_page and returns a dictionary
